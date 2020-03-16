@@ -9,6 +9,8 @@
     <packaging>mule-application</packaging>
 
 	<name>cicd_demo</name>
+	
+	
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
