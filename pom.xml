@@ -29,11 +29,11 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-				<username>Tekubelay10</username>
+				<username>Teku123</username>
 				<environment>Sandbox</environment>
 				<workerType>Micro</workerType>
 				<applicationName>worldTimezone-service</applicationName>
-				<password>143Mom</password>
+				<password>Haymi1221</password>
 				<muleVersion>4.2.2</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
