@@ -31,6 +31,7 @@
 				<cloudHubDeployment>
 				<username>Teku123</username>
 				<environment>Sandbox</environment>
+				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>worldTimezone-service</applicationName>
 				<password>Haymi1221</password>
